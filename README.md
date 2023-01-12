@@ -5,9 +5,10 @@ Initial thoughts...
 
 
 
-1. Request (Recon)
+* Request (Recon)
     1. 5 User U's 
-2. Requirements
+
+* Requirements
     1. Functional
         1. Feature
         2. Flow (UX)
@@ -21,11 +22,12 @@ Initial thoughts...
         3. Flow (more detail)
         4. DevOps
     4. Extended
-3. Review
-4. Resolve
-5. Realize
+* Review
+* Resolve
+* Realize
 
-REQUEST and CLARIFY USERS
+### REQUEST and CLARIFY USERS
+
 5 U's
 1. U want the app to.... do what? (nutshell, 1min. pitch)
     1. User Problem -> Action -> Solution -> Benefit
@@ -35,7 +37,7 @@ REQUEST and CLARIFY USERS
 4. UX, user paths, screens
 5. User growth prospects
 
-REQUIREMENTS
+### REQUIREMENTS
 
 1. Functional (Business/UX) requirements
     1. Features
@@ -149,7 +151,7 @@ REQUIREMENTS
     * Security
     * DevOps
 
-REVIEW
+### REVIEW
 
 * TECH: 
     * Email outline to Team
@@ -160,7 +162,7 @@ REVIEW
 * CLIENT: 
     * After consensus, email outline to Project Owner
 
-RESOLUTION
+### RESOLUTION
 
 * Final agreement
 * Working contract
@@ -170,6 +172,6 @@ RESOLUTION
 * Timelines
 
 
-REALIZE
+### REALIZE
 * Implementation
 * Tech lead role
