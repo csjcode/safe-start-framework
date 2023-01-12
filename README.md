@@ -1,9 +1,9 @@
-# start-safe-framework
+# SAFE Start Framework
 Solutions Architect Framework for Enterprises (SAFE)
 
+A framework for designing new systems and cloud projects
+
 Initial thoughts...
-
-
 
 * Request (Recon)
     1. 5 User U's 
